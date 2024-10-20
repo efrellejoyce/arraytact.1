@@ -1,1 +1,0 @@
-# arraytact.1
